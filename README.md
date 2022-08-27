@@ -1,5 +1,12 @@
 # README
 
+##　（復習）　DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]
+
+DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]の復習用です。
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -23,6 +30,3 @@ Things you may want to cover:
 
 * ...
 
-#　（復習）　DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]
-
-DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]の復習用です。
