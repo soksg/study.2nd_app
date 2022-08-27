@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+#　（復習）　DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]
+
+DMM WEBCAMPコンテンツ[アプリケーションを完成させよう]の復習用です。
